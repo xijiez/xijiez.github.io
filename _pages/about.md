@@ -16,10 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I have started my graduate study in Computer Science at Dalhousie since January 2024 with my supervisor [Dr.Frank Rudzicz](https://web.cs.dal.ca/~rudzicz/), with holding a Bachelor’s degree with Honours in Computer Science. I specialize in Artificial Intelligence and Natural Language Processing, including hands-on experience in machine learning, deep learning, speech recognition and sentiment analysis, particularly in the context of healthcare. As one of the graduate student researchers, my research will be supported by the [Vector Institute]( https://vectorinstitute.ai/) as well. 
+I’m a Ph.D. student in Computer Science at Dalhousie University since January 2024, with my advisor [Dr.Frank Rudzicz](https://web.cs.dal.ca/~rudzicz/), and I hold a Bachelor’s degree with Honours in Computer Science. I specialize in Artificial Intelligence and Natural Language Processing, with experience in agentic AI, deep learning, federated learning, and speech recognition. As one of the graduate student researchers, my research is also supported by the [Vector Institute]( https://vectorinstitute.ai/).
 
-The primary objective of my research is using federated learning to develop innovative methods for predicting neurodegenerative disease, such as Parkinson’s disease and Alzheimer’s disease, while addressing vulnerabilities in the current FL algorithms that might cause data leakage.
+My research investigates how AI agents interpret and interact with humans or other agents, and how these interactions can be made more reliable and secure. I explore techniques like intention inference, representation learning, and multimodal analysis to improve model transparency and prevent unintended behaviours in agentic systems. The goal of my work is to support the development of AI systems that are safe, responsible, and reliable for deployment in our daily lives, as well as in sensitive domains such as healthcare and public services.
 
-Besides academics, I am currently the president of the Dalhousie Chinese Students and Scholars Association (DCSSA), where I am responsible for organizing and hosting events for the Chinese community at Dalhousie. I'm also a painter with more than 10 years of experience, an amateur designer, and a singer.
+Besides academics, I am currently the president of the Dalhousie Chinese Students and Scholars Association (DCSSA), where I am responsible for organizing and hosting events for the Chinese community at Dalhousie. I’m also a painter with more than 10 years of experience, an amateur designer, and a singer.
 
-If you are interested in my research, or just curious about me, feel free to contact me via xijie.zeng@dal.ca.
+If you are interested in my research or just curious about me, feel free to contact me via xijie.zeng@dal.ca.
