@@ -22,4 +22,4 @@ My research investigates how AI agents interpret and interact with humans or oth
 
 Besides academics, I am currently the president of the Dalhousie Chinese Students and Scholars Association (DCSSA), where I am responsible for organizing and hosting events for the Chinese community at Dalhousie. I’m also a painter with more than 10 years of experience, an amateur designer, and a singer.
 
-If you are interested in my research or just curious about me, feel free to contact me via xijie.zeng@dal.ca.
+If you are interested in my research or just curious about me, feel free to contact me via myfirstname(dot)mylastname@dal.ca.
