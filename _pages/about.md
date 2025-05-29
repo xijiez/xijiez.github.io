@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.dal.ca/'>Dalhousie University</a>. Master of Computer Science, AI in Healthcare.
+subtitle: <a href='https://www.dal.ca/'>Dalhousie University</a>. Ph.D student, AI Safety, Agentic AI, AI in Healthcare.
 
 profile:
   align: right
