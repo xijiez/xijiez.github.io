@@ -13,7 +13,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 I’m a Ph.D. student in Computer Science at Dalhousie University since January 2024, with my advisor [Dr.Frank Rudzicz](https://web.cs.dal.ca/~rudzicz/), and I hold a Bachelor’s degree with Honours in Computer Science. I specialize in Artificial Intelligence and Natural Language Processing, with experience in agentic AI, deep learning, federated learning, and speech recognition. My research is also supported by the [Vector Institute]( https://vectorinstitute.ai/).
