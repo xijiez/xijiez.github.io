@@ -2,33 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.dal.ca/'>Dalhousie University</a>. Master of Computer Science, AI in Healthcare.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>We're here to put a dent in the universe. Otherwise why else even be here</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I have started my graduate study in Computer Science at Dalhousie since January 2024 with my supervisor [Dr.Frank Rudzicz](https://web.cs.dal.ca/~rudzicz/), with holding a Bachelor’s degree with Honours in Computer Science. I specialize in Artificial Intelligence and Natural Language Processing, including hands-on experience in machine learning, deep learning, speech recognition and sentiment analysis, particularly in the context of healthcare. As one of the graduate student researchers, my research will be supported by the [Vector Institute]( https://vectorinstitute.ai/) as well. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+The primary objective of my research is using federated learning to develop innovative methods for predicting neurodegenerative disease, such as Parkinson’s disease and Alzheimer’s disease, while addressing vulnerabilities in the current FL algorithms that might cause data leakage.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Besides academics, I am currently the president of the Dalhousie Chinese Students and Scholars Association (DCSSA), where I am responsible for organizing and hosting events for the Chinese community at Dalhousie. I'm also a painter with more than 10 years of experience, an amateur designer, and a singer.
+
+If you are interested in my research, or just curious about me, feel free to contact me via xijie.zeng@dal.ca.
