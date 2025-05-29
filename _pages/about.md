@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I’m a Ph.D. student in Computer Science at Dalhousie University since January 2024, with my advisor [Dr.Frank Rudzicz](https://web.cs.dal.ca/~rudzicz/), and I hold a Bachelor’s degree with Honours in Computer Science. I specialize in Artificial Intelligence and Natural Language Processing, with experience in agentic AI, deep learning, federated learning, and speech recognition. As one of the graduate student researchers, my research is also supported by the [Vector Institute]( https://vectorinstitute.ai/).
+I’m a Ph.D. student in Computer Science at Dalhousie University since January 2024, with my advisor [Dr.Frank Rudzicz](https://web.cs.dal.ca/~rudzicz/), and I hold a Bachelor’s degree with Honours in Computer Science. I specialize in Artificial Intelligence and Natural Language Processing, with experience in agentic AI, deep learning, federated learning, and speech recognition. My research is also supported by the [Vector Institute]( https://vectorinstitute.ai/).
 
 My research investigates how AI agents interpret and interact with humans or other agents, and how these interactions can be made more reliable and secure. I explore techniques like intention inference, representation learning, and multimodal analysis to improve model transparency and prevent unintended behaviours in agentic systems. The goal of my work is to support the development of AI systems that are safe, responsible, and reliable for deployment in our daily lives, as well as in sensitive domains such as healthcare and public services.
 
