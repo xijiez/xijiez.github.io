@@ -21,5 +21,3 @@ I’m a Ph.D. student in Computer Science at Dalhousie University since January 
 I investigate how AI agents interpret and interact with humans or other agents, and how these interactions can be made more reliable and secure. I explore techniques like intention inference, representation learning, and multimodal analysis to improve model transparency and prevent unintended behaviours in agentic systems. The goal of my work is to support the development of AI systems that are safe, responsible, and reliable for deployment in our daily lives, as well as in sensitive domains such as healthcare and public services.
 
 Besides academics, I am currently the president of the Dalhousie Chinese Students and Scholars Association (DCSSA), where I am responsible for organizing and hosting events for the Chinese community at Dalhousie. I’m also a painter with more than 10 years of experience, an amateur designer, and a singer.
-
-If you are interested in my research or just curious about me, feel free to contact me via myfirstname(dot)mylastname@dal.ca.
