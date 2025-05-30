@@ -6,8 +6,8 @@ subtitle: <a href='https://www.dal.ca/'>Dalhousie University</a>. Ph.D student, 
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: me.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>We're here to put a dent in the universe. Otherwise why else even be here</p>
 
