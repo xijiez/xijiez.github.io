@@ -4,7 +4,7 @@
     "label": "Ph.D student, AI Safety, Agentic AI, AI in Healthcare, Speech",
     "image": "",
     "email": "my first name dot my last name at dal dot ca",
-    "summary": "I’m a Ph.D. student in Computer Science at Dalhousie University since January 2024, with my advisor [Dr.Frank Rudzicz](https://web.cs.dal.ca/~rudzicz/). My research focuses on Artificial Intelligence and Natural Language Processing, with experience in agentic AI, deep learning, federated learning, and speech recognition. I am a recipient of the [Killam Doctoral Scholarship](https://www.dal.ca/faculty/gradstudies/finance-your-studies/scholarships-bursaries/killam-master-doctoral.html), one of Canada’s most prestigious graduate awards, granted annually to only 20–25 students nationwide. My research is also supported by the [Vector Institute]( https://vectorinstitute.ai/).",
+    "summary": "I focus on AI safety, large language models (LLMs), agentic AI, and speech technologies. My work explores how AI systems can be made more interpretable, reliable, and aligned with human values, contributing to the development of safer and more responsible AI.",
     "location": {
       "address": "6050 University Avenue",
       "postalCode": "B3H 1W5",
@@ -18,9 +18,17 @@
       "institution": "Dalhousie University, Halifax, Nova Scotia",
       "location": "Nova Scotia, Halifax",
       "url": "https://www.dal.ca",
-      "area": "Computer Science",
+      "area": "AI Safety, Agentic AI, AI in Healthcare, and Speech",
       "studyType": "Ph.D",
       "startDate": "2024-01-01",
+      "endDate": "current"
+    },
+    {
+      "institution": "Vector Institute, Toronto, Ontario (Remote)",
+      "location": "Ontario, Toronto",
+      "url": "https://vectorinstitute.ai/",
+      "studyType": "Student Researcher",
+      "startDate": "2023-09-01",
       "endDate": "current"
     },
     {
@@ -30,9 +38,11 @@
       "area": "Computer Science",
       "studyType": "Bachelor with Honours",
       "startDate": "2019-09-01",
-      "endDate": "2023-8-31"
+      "endDate": "2023-8-31",
+      "highlights": [
+        "Certificate in Artificial Intelligence and Intelligent Systems"
+      ]
     }
-
   ],
   "work": [
     {
