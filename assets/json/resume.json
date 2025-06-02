@@ -66,7 +66,7 @@
     }
   ],
   "projects": [
-    {
+    { "title": "Bridge2AI Voice",
       "organization": "Bridge2AI Voice",
       "location": "Toronto, Canada (Remote)",
       "position": "Data Analyst",
