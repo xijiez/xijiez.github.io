@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 # cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is not the ultimate version of me.
+description: This is not the final form of me.
 toc:
   sidebar: left
 ---
