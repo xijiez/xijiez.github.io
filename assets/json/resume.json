@@ -126,6 +126,11 @@
   ],
   "publications": [
     {
+      "name": "Locking Open Weight Models with Spectral Deformation",
+      "publisher": "TAIG @ ICML 2025, Vancouver, Canada",
+      "releaseDate": "2025-July-02"
+    },
+    {
       "name": "How to Recover Long Audio Sequences Through Gradient Inversion Attack With Dynamic Segment-based Reconstruction",
       "publisher": "Interspeech 2025, Rotterdarm, Netherlands",
       "releaseDate": "2025-August-17"
